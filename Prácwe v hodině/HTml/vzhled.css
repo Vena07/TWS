@@ -1,0 +1,36 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(249, 195, 114);
+}
+
+table{
+    width: 1000px;
+    height: 500px;
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(211, 211, 251);
+    border: solid black 5px;
+    
+}
+
+.nazev{
+    background-color: aqua;
+
+}
+
+.info{
+    background-color: rgb(198, 255, 113);
+}
+
+tr{
+    border: solid black 3px;
+}
+td,th,table{
+    border: solid black 5px;
+    margin: 0px;
+}
