@@ -1,0 +1,34 @@
+
+
+.ja{
+    display: flex;
+}
+
+.profilovka{
+    width: 350px;
+    border-radius: 25px 200px 25px 200px ;
+    margin: 50px;
+}
+
+p{
+    color: rgb(112, 173, 71);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 25px;
+    font: 25px;
+}
+
+#zarovnani{
+    text-align: center;
+}
+
+.text{
+    color:blue;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: blue;
+}
